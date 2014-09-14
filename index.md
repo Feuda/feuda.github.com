@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: 和自己谈谈，也和世界谈谈
 tagline: 里程碑 
 ---
