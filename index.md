@@ -1,46 +1,8 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: post
+title: 和自己谈谈，也和世界谈谈
+tagline: 里程碑 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+最近经常会有些不同的想法，其实之前也有过，但是总是转过身就忘记了，等想记录下来的时候却发现已经不记得了。最近的一些想法会记在手机上的印象笔记里，准备大写成文章抒发各种发自内心的感想，我写日记的习惯虽然已经抛弃多年，但是最近感觉内心渴望和自己交谈，和世界交谈的那种欲望不断，于是便重新整起了这个博客。———— 2014.9.14
