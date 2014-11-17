@@ -3,7 +3,7 @@ layout: post
 title: "codesigners"
 description: ""
 category: 
-tags: ['mind']
+tags: [mind]
 ---
 {% include JB/setup %}
 

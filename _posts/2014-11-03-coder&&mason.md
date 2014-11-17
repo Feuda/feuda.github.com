@@ -3,7 +3,7 @@ layout: post
 title: "码农与泥工"
 description: ""
 category: 
-tags: ['mind']
+tags: [mind]
 ---
 {% include JB/setup %}
 
