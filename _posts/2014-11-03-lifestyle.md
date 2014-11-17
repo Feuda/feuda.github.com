@@ -2,8 +2,8 @@
 layout: post
 title: "生活的姿态"
 description: ""
-category: 
-tags: [mind]
+category: minds
+tags: [创想]
 ---
 {% include JB/setup %}
 私人场合吸烟叫吞云吐雾， 公共场合吸烟叫乌烟瘴气。

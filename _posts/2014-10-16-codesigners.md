@@ -2,8 +2,8 @@
 layout: post
 title: "codesigners"
 description: ""
-category: 
-tags: [mind]
+category: minds
+tags: [创想]
 ---
 {% include JB/setup %}
 

@@ -2,8 +2,8 @@
 layout: post
 title: "码农与泥工"
 description: ""
-category: 
-tags: [mind]
+category: minds 
+tags: [创想]
 ---
 {% include JB/setup %}
 
