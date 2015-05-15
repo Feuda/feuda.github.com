@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feng面
+title: Feuda Nan 
 tagline: 里程碑 
 ---
 {% include JB/setup %}
@@ -28,7 +28,7 @@ Stackoverflow: [http://stackoverflow.com/users/642616/feuda](http://stackoverflo
 Twitter: [https://twitter.com/feudanan](https://twitter.com/feudanan)
 看着个应该会更加清楚我的技术之路
 
-或许是迷茫，或许仅仅是一个决定，又或者说有很多事想做，我在2014年11月辞职，12月开始去某培训机构学习UI设计，前后几个月的时间学习设计
+或许是迷茫，或许仅仅是一个决定，又或者说有很多事真心想去了解学习、去做，我在2014年11月辞职，12月开始去某培训机构学习UI设计，前后几个月的时间学习设计
 
 我发现我看这个世界又多了一个角度和一种态度
 
