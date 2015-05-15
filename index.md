@@ -7,11 +7,11 @@ tagline: 里程碑
 
 世界你好，我叫南丰，89后(手动加狗脸)
 
-Hello Game, I'm Feuda Nan, Post-89s
+Hello Game, I'm Feuda Nan, Post-89s(Cool)
 
 我喜欢音乐,尤其是周杰伦的音乐,这个可以证明：[http://y.qq.com/kg/play.html?s=b6YBdYYWM8HQ](http://y.qq.com/kg/play.html?s=b6YBdYYWM8HQ)
 
-喜欢电影，远到漫威的超级英雄电影，进到《青蛇》，再到《我的野蛮女友》，都还蛮喜欢
+喜欢电影，远到漫威的超级英雄电影，《我的野蛮女友》，近到《青蛇》，都还蛮喜欢，口味众多
 
 喜欢篮球，只因少年时候看的《灌篮高手》
 
@@ -28,7 +28,7 @@ Stackoverflow: [http://stackoverflow.com/users/642616/feuda](http://stackoverflo
 Twitter: [https://twitter.com/feudanan](https://twitter.com/feudanan)
 看着个应该会更加清楚我的技术之路
 
-或许是迷茫，或许仅仅是一个决定，又或者说有很多事想做，我在2014年11月辞职，12月开始去某培训机构学习UI设计
+或许是迷茫，或许仅仅是一个决定，又或者说有很多事想做，我在2014年11月辞职，12月开始去某培训机构学习UI设计，前后几个月的时间学习设计
 
 我发现我看这个世界又多了一个角度和一种态度
 
