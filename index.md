@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Feuda Nan 
-tagline: 里程碑 
+title: Mind Records 
+tagline: Home 
 ---
 {% include JB/setup %}
 
 ![Feuda Nan](http://www.feudanan.com/images/feudanan.jpg)
 
 Hello Game 
+
+Twitter: [https://twitter.com/feudanan](https://twitter.com/feudanan)
 
 Github: [http://github.com/Feuda](http://github.com/Feuda)
 
