@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Feuda Nan
+title:  Mr. Feuda Nan
 tagline: Home 
 ---
 {% include JB/setup %}
