@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mind Records 
+title: @feudanan 
 tagline: Home 
 ---
 {% include JB/setup %}
