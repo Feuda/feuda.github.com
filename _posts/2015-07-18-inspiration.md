@@ -3,7 +3,7 @@ layout: post
 title: "灵感是什么？"
 description: ""
 category: minds 
-tags: [不思寻常路]
+tags: [Think Different]
 ---
 {% include JB/setup %}
 
