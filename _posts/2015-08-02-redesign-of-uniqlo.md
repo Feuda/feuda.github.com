@@ -3,7 +3,7 @@ layout: post
 title: "Redesign Of UNIQLO"
 description: ""
 category: 
-tags: [Design]
+tags: [Design, Photo]
 ---
 {% include JB/setup %}
 ![UNIQLO](http://www.feudanan.com/images/uniqlo.jpg)
