@@ -2,7 +2,7 @@
 layout: post
 title: "Redesign Of UNIQLO"
 description: ""
-category: 
+category: minds
 tags: [Design, Photo]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "倚天屠龙记之魔教教主"
 description: ""
-category: 
+category: minds
 tags: [Read]
 ---
 {% include JB/setup %}
