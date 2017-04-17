@@ -7,7 +7,7 @@ tagline: Home
 
 ![Feuda Nan](http://www.feudanan.com/images/feudanan.jpg)
 
-A coder and more
+**A coder and more**
 
 Twitter: [https://twitter.com/feudanan](https://twitter.com/feudanan)
 
