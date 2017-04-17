@@ -1,5 +1,11 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
+gems:
+  - jekyll-extlinks
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
