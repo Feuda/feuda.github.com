@@ -21,7 +21,7 @@ tags: [Music]
 
 > Let me touch my ear on your chest.
 
-> 我特别想知道你是怎么想的
+> 我特别想知道你心里是怎么想的
 
 > It rains cats and dogs.
 
@@ -65,7 +65,7 @@ tags: [Music]
 
 > And I dream of you.
 
-> 我好想你，但是我又害怕见到你
+> 我想见你，但是我又害怕见到你
 
 > La la you know...
 
@@ -79,9 +79,11 @@ tags: [Music]
 
 > and now I knew you'd be back,
 
+> 但我相信你会回来的
+
 > and without any words or hints.
 
-> 但我相信你会回来的，不需要任何理由
+> 不需要任何理由
 
 > It must be fate.
 
@@ -89,7 +91,7 @@ tags: [Music]
 
 > The world is a dream in rain.
 
-> 那雨夜酣睡的梦对于我来说就是整个世界
+> 雨夜酣睡的梦扑通扑通，对于我来说，它就是整个世界
 
 > The splashes of water shines don't you see.
 
@@ -97,17 +99,23 @@ tags: [Music]
 
 > Watch out.
 
+> 千万、千万
+
 > Don't step on the fish in the pool.
 
 > 不要让我失望、伤心
 
 > I'm a little soaking mouse.
 
+> 雨下整夜
+
 > I'm wet with a blanket of rain.
+
+> 院子落叶
 
 > And I dream of you.
 
-> 我想你了，像中毒了一样，无药可救
+> 每次想你的时候，我就像中毒了一样
 
 > Let me hear~
 
@@ -115,15 +123,19 @@ tags: [Music]
 
 > Let me touch my ear on your chest
 
-> 我特别想知道你是不是也这样
+> 我特别想知道你是不是也这样，嘻嘻
 
 > It rains cats and dogs
 
+> 不知所起，一往而深
+
 > I'm a little soaking mouse
+
+> 那份情愫魂牵梦萦
 
 > Here wet with a blanket of rain
 
-> 那份情愫一往而深，魂牵梦萦，挥之不去
+> 挥之不去
 
 > And I'm dreaming of you
 
