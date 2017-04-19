@@ -11,7 +11,7 @@ tagline: Home
 
 Twitter: [https://twitter.com/feudanan](https://twitter.com/feudanan){:target="_blank"}
 
-Github: [http://github.com/Feuda](http://github.com/Feuda){:target="_blank"}
+Github: [https://github.com/Feuda](https://github.com/Feuda){:target="_blank"}
 
 Stackoverflow: [http://stackoverflow.com/users/642616/feuda](http://stackoverflow.com/users/642616/feuda){:target="_blank"}
 
