@@ -7,7 +7,7 @@ tags: [Music]
 ---
 {% include JB/setup %}
 
-前段时间第一次听到这首歌，觉得现有中文翻译不是很带感，便萌生了重新翻译下歌词的念头，今天终于抽出时间。
+前段时间第一次听到这首歌，看到现有中文翻译有些地方不太对，主要还是不带感啊，便萌生了重新翻译下歌词的念头，今天终于抽出时间。我这个版本比较颠覆吧，不是生搬硬套，在神不在形。
 
 <iframe border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&amp;id=31861287&amp;auto=1&amp;height=66" height="86" frameborder="no" width="330"></iframe>
 
@@ -25,13 +25,13 @@ tags: [Music]
 
 > It rains cats and dogs.
 
-> 啊，无数的猫猫狗狗冲向我，就如那倾盆大雨
+> 啊，无数的猫猫狗狗，如倾盆大雨般地冲过来啦
 
 > I'm a little soaking mouse.
 
 > Here wet with a blanket of rain.
 
-> 我只是一只小老鼠，我能逃到哪儿去呢
+> 我只是一只小老鼠，我能躲到哪儿去呢
 
 > And I dream of you.
 
@@ -51,11 +51,15 @@ tags: [Music]
 
 > It sounds like a tiny march of angels.
 
-> 嘿嘿，那是美丽又纯洁的东西，像天使一样，给了我依赖
+> 嘿嘿，那是美丽又纯洁的东西，像天使一样，给我依赖
 
 > Please don't leave me here just watch me dance.
 
 > 不要丢下我，我跳支舞给你看吧，我跳舞很美的（主要是人美，哈哈）
+
+> pointé passé fouetté
+
+> 哒，哒，哒，哒
 
 > Whenever we meet it rains cats and dogs.
 
@@ -65,7 +69,7 @@ tags: [Music]
 
 > And I dream of you.
 
-> 我想见你，但是我又害怕见到你
+> 我做梦都想见你，但是我又害怕见到你
 
 > La la you know...
 
@@ -131,7 +135,7 @@ tags: [Music]
 
 > I'm a little soaking mouse
 
-> 那份情愫魂牵梦萦
+> 那种感觉魂牵梦萦
 
 > Here wet with a blanket of rain
 
@@ -140,7 +144,5 @@ tags: [Music]
 > And I'm dreaming of you
 
 > 在吗？
-
-> 在干嘛？
 
 > I LOVE U
