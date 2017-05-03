@@ -13,7 +13,7 @@ tags: [Music]
 
 > **Fish In The Pool**
 
-> **我是你的**
+> **你的**
 
 > Let me hear~
 
@@ -51,7 +51,7 @@ tags: [Music]
 
 > It sounds like a tiny march of angels.
 
-> 嘿嘿，那是美丽又纯洁的东西，像天使一样，给了我依赖
+> 嘿嘿，那是美丽又纯洁的东西，给我依赖，像天使一样
 
 > Please don't leave me here just watch me dance.
 
@@ -131,18 +131,16 @@ tags: [Music]
 
 > It rains cats and dogs
 
-> 魂牵梦萦的感觉
+> 天天想你
 
 > I'm a little soaking mouse
 
-> 挥之不去
+> 心动的感觉
 
 > Here wet with a blanket of rain
 
-> 真是败给你了
+> 挥之不去
 
 > And I'm dreaming of you
 
-> 在吗？
-
-> I LOVE U
+> 520
