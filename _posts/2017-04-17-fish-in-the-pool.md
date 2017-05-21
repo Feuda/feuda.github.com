@@ -59,7 +59,7 @@ tags: [Music]
 
 > pointé passé fouetté
 
-> 哒，哒，哒，哒
+> 哒，哒，哒
 
 > Whenever we meet it rains cats and dogs.
 
