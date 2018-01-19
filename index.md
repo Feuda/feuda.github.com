@@ -5,7 +5,7 @@ tagline: Home
 ---
 {% include JB/setup %}
 
-![Feuda Nan](http://www.feudanan.com/images/feudanan.jpg)
+![Feuda Nan](/images/feudanan.jpg)
 
 **A coder and more**
 

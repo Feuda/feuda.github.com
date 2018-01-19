@@ -6,7 +6,7 @@ category: minds
 tags: [Design, Photo]
 ---
 {% include JB/setup %}
-![UNIQLO](http://www.feudanan.com/images/uniqlo.jpg)
+![UNIQLO](/images/uniqlo.jpg)
 
 这是我在2015年5月份的时候对[优衣库的官网](http://www.uniqlo.cn/)做的一个改版。
 
